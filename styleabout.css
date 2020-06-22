@@ -1,0 +1,45 @@
+
+body {
+	font-family: sans-serif;
+	margin: auto;
+	line-height: 1.9;
+}
+
+header {
+	max-width: 100%;
+	height: 400px;
+	text-align: center;
+	padding-right: 10%;
+	padding-left: 10%;
+	padding-bottom: 100px;
+}
+
+h1 {
+	font-size: 90px;
+}
+
+footer	{
+	background: black;
+	height: 200px;
+	padding-left: 20px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.column {
+	float: left;
+	width: 50%;
+}
+
+.lol-01 {
+	color: white;
+}
+
+.lol-02 {
+	color: white;
+	text-decoration: none;
+}
+
+.lol-01:hover, .lol-02:hover {
+	color: red;
+}

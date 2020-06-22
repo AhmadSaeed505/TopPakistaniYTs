@@ -1,0 +1,65 @@
+
+body {
+	font-family: sans-serif;
+	margin: auto;
+	line-height: 1.9;
+}
+
+header {
+	max-width: 100%;
+	text-align: center;
+	padding-right: 10%;
+	padding-left: 10%;
+	padding-bottom: 10%;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+section {
+	background-color: silver;
+	margin: auto;
+	margin-right: 24%;
+	margin-left: 24%;
+	margin-bottom: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+	border:5px solid black;
+}
+
+p {
+	padding-left: 15%;
+	font-weight: bolder;
+}
+
+.column {
+	float: left;
+	width: 50%;
+}
+
+.lol-01 {
+	color: white;
+}
+
+.lol-02 {
+	text-decoration: none;
+	color: white;
+}
+
+.lol-01:hover, .lol-02:hover {
+	color: red;
+}
+
+footer	{
+	background: black;
+	height: 200px;
+	padding-left: 20px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
